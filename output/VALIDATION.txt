@@ -1,0 +1,38 @@
+Submission validation report
+==============================
+
+word_count: 2495
+abstract_words: 214
+policy_significance_words: 121
+keywords: 5
+references: 30
+all_citations_resolve: True
+no_orphan_or_phantom_refs: True
+references_alphabetical: True
+no_unresolved_markers: True
+figures_cited_in_text: True
+tables_cited_in_text: True
+five_figures_present: True
+five_tables_present: True
+abstract_within_250w: True
+policy_significance_120w: True
+keywords_at_most_five: True
+required_disclosures_present: True
+no_identity_leak_when_blinded: True
+
+Figure files:
+  Figure 1 png: Figure1.png
+  Figure 1 tiff: Figure1.tiff
+  Figure 1 pdf: Figure1.pdf
+  Figure 2 png: Figure2.png
+  Figure 2 tiff: Figure2.tiff
+  Figure 2 pdf: Figure2.pdf
+  Figure 3 png: Figure3.png
+  Figure 3 tiff: Figure3.tiff
+  Figure 3 pdf: Figure3.pdf
+  Figure 4 png: Figure4.png
+  Figure 4 tiff: Figure4.tiff
+  Figure 4 pdf: Figure4.pdf
+  Figure 5 png: Figure5.png
+  Figure 5 tiff: Figure5.tiff
+  Figure 5 pdf: Figure5.pdf
