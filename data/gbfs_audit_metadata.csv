@@ -1,0 +1,2 @@
+registry_url,registry_commit,registry_http_status,registry_sha256,registry_rows_total,registry_rows_audited,audit_started_from_utc,audit_completed_at_utc,workers,user_agent
+https://raw.githubusercontent.com/MobilityData/gbfs/4b7227fb1f136d83bcea2658b135fc52a83a92d9/systems.csv,4b7227fb1f136d83bcea2658b135fc52a83a92d9,200,3ecfc7a6ba46a2707b529755df4966d950afb8951cdfcadcac47739c4934bd38,1520,1520,2026-07-13T15:57:59.121920+00:00,2026-07-13T16:01:03.548439+00:00,12,DischargedSecretsGBFSAudit/0.1
