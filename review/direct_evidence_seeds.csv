@@ -1,0 +1,11 @@
+title,year,doi,anticipated_distance,seed_reason
+Scoot over Smart Devices: The Invisible Costs of Rental Scooters,2019,10.24908/ss.v17i1/2.13112,D3,Early target-domain privacy analysis
+Security and Privacy Challenges in Upcoming Intelligent Urban Micromobility Transportation Systems,2020,10.1145/3375706.3380559,D3,Target-domain threat and architecture analysis
+A forensic analysis of micromobility solutions,2021,10.1016/j.fsidi.2021.301137,D4,Direct forensic examination
+An Investigative Study on the Privacy Implications of Mobile E-scooter Rental Apps,2022,10.1145/3507657.3528551,D4,Direct application privacy measurement
+E-Spoofer: Attacking and Defending Xiaomi Electric Scooter Ecosystem,2023,10.1145/3558482.3590176,D4,Direct device ecosystem security experiment
+E-scooter Sharing Platforms: Understanding Their Architecture and Cybersecurity Threats,2023,10.1109/ITSC57777.2023.10421849,D3,Target-domain platform architecture analysis
+Geo-Location Spoofing on E-Scooters; Threat Analysis and Prevention Framework,2023,10.17694/bajece.1231384,D3,Target-domain location-security analysis
+E-Trojans: Ransomware Tracking DoS and Data Leaks on Battery-powered Embedded Systems,2024,10.48550/arXiv.2411.17184,D4,Direct scooter BMS and embedded-system experiment
+They See Me Scooting — A Long-Term Real-World Data Analysis of Shared Micro-Mobility Services and their Privacy Leakage,2025,10.1109/EuroSP63326.2025.00014,D4,Direct longitudinal public-feed analysis
+Leaky Batteries: A Novel Set of Side-Channel Attacks on Electric Vehicles,2025,10.1007/978-3-032-00624-0_16,D2,Near-domain battery inference experiment

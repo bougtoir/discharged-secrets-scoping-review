@@ -1,0 +1,211 @@
+operator_name,jurisdiction,document_status,domain,status,quotation_or_locator
+Dott (TIER-Dott),EU,coded,location_data,explicit,"Geolocation and Telemetry Data We collect data on how you use our Vehicles, including ride and geolocation history and telemetry information like braking, swerving, collisions, road surface conditions, speed, chosen path, and weight fluctuations."
+Dott (TIER-Dott),EU,coded,trip_time_data,explicit,"Compliance with Legal Requirements Certain types of data, such as trip information or records relevant for tax purposes, are retained for a period of 7 years to comply with legal obligations."
+Dott (TIER-Dott),EU,coded,vehicle_identifier,partial,"Additionally, we collect your billing and delivery addresses, email addresses, telephone numbers, and other similar identifiers."
+Dott (TIER-Dott),EU,coded,battery_or_diagnostic_data,explicit,"Geolocation and Telemetry Data We collect data on how you use our Vehicles, including ride and geolocation history and telemetry information like braking, swerving, collisions, road surface conditions, speed, chosen path, and weight fluctuations."
+Dott (TIER-Dott),EU,coded,maintenance_or_repair_data,explicit,"Business, App, and Vehicle Administration To maintain the integrity of our business, we use your data for troubleshooting, data analysis, testing, system maintenance, support, reporting, and hosting."
+Dott (TIER-Dott),EU,coded,account_payment_device_data,explicit,"Financial and Transactional Data We gather information related to your bank account and payment card details (note that we do not retain your full payment card details, which are stored by our trusted third-party payment processor), along with details of transactions and services you have purchased "
+Dott (TIER-Dott),EU,coded,analytics_or_profiling,explicit,"Data Analytics Your personal data supports our efforts to enhance our Website, App, Vehicles, marketing, and advertising efforts."
+Dott (TIER-Dott),EU,coded,retention,explicit,"Data Retention at TIER-Dott At TIER-Dott, we are committed to handling your personal data responsibly and in compliance with applicable laws and regulations."
+Dott (TIER-Dott),EU,coded,processors_or_contractors,explicit,"Financial and Transactional Data We gather information related to your bank account and payment card details (note that we do not retain your full payment card details, which are stored by our trusted third-party payment processor), along with details of transactions and services you have purchased "
+Dott (TIER-Dott),EU,coded,international_transfer,explicit,"Adequacy Decisions by the European Commission: We also rely on adequacy decisions made by the European Commission, which determine whether a non-EEA country offers an adequate level of data protection comparable to that within the EU."
+Dott (TIER-Dott),EU,coded,user_rights,explicit,"Our commitment to your privacy includes granting you the following rights concerning your personal data: Right to Access Information You are entitled to request an overview of your personal data processed by us, along with a copy of this data, ensuring you’re fully informed about the information we "
+Dott (TIER-Dott),EU,coded,incident_contact,explicit,Privacy Policy - Dott Menu Menu Ride with us Our way Join us News Help EN AR CA DA DE EL ES FI FR HE HU IT NL NO PL SK SV Terms Terms & Conditions Insurance Website Terms of Use API Licence Supplier Code of Conduct Environmental Policy Slavery and Human Trafficking Statement Privacy Privacy Policy D
+Dott (TIER-Dott),EU,coded,vulnerability_disclosure,not_found,
+Dott (TIER-Dott),EU,coded,return_recycling_disposal,not_found,
+Bird,Global,coded,location_data,explicit,"The image, your device’s estimated geolocation, and orientation, IP address, and other device information will be collected and processed by ARCore to identify the area where you left the vehicle."
+Bird,Global,coded,trip_time_data,explicit,"For example, unless required for one of the other purposes mentioned, your account registration information, ride history, and payment history will be deleted or anonymized (so that it can no longer be associated with you) when you choose to delete your account."
+Bird,Global,coded,vehicle_identifier,explicit,"This systematic information includes device identifiers and other unique identifiers, browser type, browser language, operating system name, and version, device name, and model and version."
+Bird,Global,coded,battery_or_diagnostic_data,explicit,"This information can be used to determine your device or vehicle’s current location, travel direction, and speed."
+Bird,Global,coded,maintenance_or_repair_data,explicit,"Before you take a ride on a Bird rental vehicle, participate in our surveys, contests, sweepstakes, and promotions, subscribe to our marketing updates, use our customer service, register for, or attend, an event, or when you register a Bird vehicle you purchased directly from us, you will be asked t"
+Bird,Global,coded,account_payment_device_data,explicit,"If you buy a product directly from us or rent a Bird vehicle, we will also ask for your payment information, such as a credit card, debit card, or another payment method, and your billing address."
+Bird,Global,coded,analytics_or_profiling,explicit,Advertising and Digital Analytics Companies.
+Bird,Global,coded,retention,explicit,"For more information, please see our Biometric Data Collection and Retention Policy ."
+Bird,Global,coded,processors_or_contractors,explicit,Note that Bird does not store your payment information; we use experienced and trusted third-party payment processors to collect and process your payments for us.
+Bird,Global,coded,international_transfer,explicit,"When we do so, we take appropriate measures to protect your personal information, including through standard contractual clauses approved by the European Commission or UK Information Commissioner’s Office, to help ensure your rights and protections."
+Bird,Global,coded,user_rights,explicit,"section of the Privacy Policy You have the right to control your information by requesting: • Deletion of certain personal information we have about you • Information about the financial incentives that we offer to you in exchange for your information, if any • Request that we do not to sell or shar"
+Bird,Global,coded,incident_contact,explicit,"Law Enforcement Agencies, Courts, Regulatory Agencies, and Others When we believe it is necessary, we will disclose personal information to: Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies In the event of exigent circumstances"
+Bird,Global,coded,vulnerability_disclosure,not_found,
+Bird,Global,coded,return_recycling_disposal,not_found,
+Lime,Global,coded,location_data,explicit,Trip and Location data when you sign up and use the Services.
+Lime,Global,coded,trip_time_data,explicit,Trip and Location data when you sign up and use the Services.
+Lime,Global,coded,vehicle_identifier,explicit,"These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in mobile apps, "
+Lime,Global,coded,battery_or_diagnostic_data,not_found,
+Lime,Global,coded,maintenance_or_repair_data,explicit,"When you ask for customer service, support or other assistance, you can choose to provide us with your contact information so we can better respond to your requests and we may keep information about your engagement with our support services."
+Lime,Global,coded,account_payment_device_data,explicit,"The types of information we collect include: Account information such as your name, ID number, e-mail address, telephone number, date of birth, gender, address details, and payment information such as your credit card details."
+Lime,Global,coded,analytics_or_profiling,explicit,"We use cookies and similar tracking technologies (like pixels and tags) to provide our Services, including to protect the security of the Service, remember your settings and to gather analytics information about you."
+Lime,Global,coded,retention,explicit,"We use, disclose and retain this information for the purposes described further below."
+Lime,Global,coded,processors_or_contractors,explicit,"We share your information with: Our service providers and partners : We share your information with our trusted service providers, partners, and their personnel who provide services to Lime such as hosting data and our infrastructure, providing ID verification services, processing payments and donat"
+Lime,Global,coded,international_transfer,explicit,"For Residents of the European Economic Area, Switzerland, or the United Kingdom: please be aware that certain countries outside the EEA, Switzerland, or the United Kingdom may not offer the same level of data protection as in your home country."
+Lime,Global,coded,user_rights,explicit,Right to object (marketing) - You have the right to object to processing for direct marketing purposes at any time.
+Lime,Global,coded,incident_contact,explicit,You also have the right to lodge a complaint with your local supervisory authority for data protection.
+Lime,Global,coded,vulnerability_disclosure,not_found,
+Lime,Global,coded,return_recycling_disposal,not_found,
+Bolt,Global,coded,location_data,explicit,"Personal data we collect about you when you use the Bolt App Category of personal data Geolocation Data Description of personal data We collect data about your precise and/or approximate geolocation (including GPS, and IP address) from your mobile device depending on your app settings and device per"
+Bolt,Global,coded,trip_time_data,explicit,"For example to Data provide recordings such as audio recordings generated during the trip (as part of our safety toolkit trip audio recording feature, where such feature is available - for more information, please visit https://bolt.eu/en-ee/driver/safety/), or to submit content like pictures, video"
+Bolt,Global,coded,vehicle_identifier,explicit,"Device Data We collect data about the devices you use to access the Bolt App, including the hardware model, device IP address and other unique device identifiers Category of personal data Description of personal data (such as your UUID and advertising identifiers), device operating system, browser v"
+Bolt,Global,coded,battery_or_diagnostic_data,not_found,
+Bolt,Global,coded,maintenance_or_repair_data,explicit,"To ensure the security of the Bolt Legitimate Interests - All Data services (including the Bolt - It is in our interest and in the interest Platform and Bolt App) of our Passengers to protect, guard and maintain Bolt’s security systems, Depending on the issue, All Data respond to suspected or actual"
+Bolt,Global,coded,account_payment_device_data,explicit,●​ The table below sets out the different categories of personal data we process about you: Personal data provided by you to Bolt Category of Description of Personal Data Personal Data Profile Data We collect personal data about you when you register to access the Bolt Platform and/or use the Bolt A
+Bolt,Global,coded,analytics_or_profiling,explicit,"Cookies, SDKs, We collect information through the use of cookies, tracking pixels, data Analytics, and analytics tools, SDKs, and other third-party technologies like advertising IDs to Third-Party understand how you navigate through the Bolt App, to make your experience Technologies safer, to improv"
+Bolt,Global,coded,retention,explicit,"This means that the retention periods will vary according to the type, the amount and sensitivity of your personal data, the potential risk of harm from unauthorised use or disclosure of your personal data and the reason that we have collected the personal data in the first place."
+Bolt,Global,coded,processors_or_contractors,explicit,"Drivers Your personal data is only disclosed to the Drivers (whether acting on their own behalf as an independent service provider, or acting on behalf of another service provider (for example, acting on behalf of a fleet or another individual)) when you engage with a ride in the Bolt App; in such a"
+Bolt,Global,coded,international_transfer,explicit,●​ Standard Contractual Clauses (SCCs): We will utilise standard contractual clauses approved by the European Commission for transfers outside the EEA and by the UK Government for transfers outside of the United Kingdom.
+Bolt,Global,coded,user_rights,explicit,As a data subject you have following rights: ●​ Access your personal data (known as “Right of Access”): You have the right to access and to request copies of your personal data by contacting our Customer Support Team.
+Bolt,Global,coded,incident_contact,explicit,13.​How do we notify you of changes to this Notice?
+Bolt,Global,coded,vulnerability_disclosure,not_found,
+Bolt,Global,coded,return_recycling_disposal,not_found,
+Donkey Republic,EU,coded,location_data,explicit,"Section 1: Information on the collection of personal data According to GDPR Art.4, ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by re"
+Donkey Republic,EU,coded,trip_time_data,explicit,"Phone number verification, user communication N/A, since no data is transferred outside of the EU EU Segment Name, email address, Phone number, User location, IP address, Advertising ID, User id, web browsing data Collect and forward data DPF, SCCs, BCR US Sisense Name, email address, Phone number, "
+Donkey Republic,EU,coded,vehicle_identifier,partial,"Section 1: Information on the collection of personal data According to GDPR Art.4, ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by re"
+Donkey Republic,EU,coded,battery_or_diagnostic_data,not_found,
+Donkey Republic,EU,coded,maintenance_or_repair_data,explicit,It also enables our technical staff to find bikes that need repairs.
+Donkey Republic,EU,coded,account_payment_device_data,explicit,"name, email address, mobile number, payment method, credit card number etc.) in order to conclude the contract."
+Donkey Republic,EU,coded,analytics_or_profiling,explicit,"We use tracking software to track your behaviour on the website for example clicking a button to download the Donkey Republic app, software including Google Analytics 4."
+Donkey Republic,EU,coded,retention,explicit,"At the end of the statutory retention periods stipulated by the commercial and tax laws, we shall erase your order data."
+Donkey Republic,EU,coded,processors_or_contractors,explicit,"Some third party processors store data outside of the EU, under the Data Privacy Framework or by using Standard Contractual Clauses."
+Donkey Republic,EU,coded,international_transfer,explicit,"Some third party processors store data outside of the EU, under the Data Privacy Framework or by using Standard Contractual Clauses."
+Donkey Republic,EU,coded,user_rights,explicit,"You have the right to object to this processing of your personal data, and may exercise this right by submitting a request for objection by contacting us at support@donkeyrepublic.com, clicking on the unsubscribe link available in each email, or closing your account."
+Donkey Republic,EU,coded,incident_contact,explicit,Section 9: Your rights You have the following rights with respect to personal data concerning you: Right to information (Article 15 of the GDPR) Right to rectification of data (Article 16 of the GDPR) Right to erasure of data (Article 17 of the GDPR) Right to restriction of processing (Article 18 of
+Donkey Republic,EU,coded,vulnerability_disclosure,not_found,
+Donkey Republic,EU,coded,return_recycling_disposal,not_found,
+Beryl,UK,coded,location_data,explicit,Purpose: To track the location of our bikes and scooters via GPS within the vehicle | Lawful Basis: Legitimate interests so that we can learn more about cycle routes and where our bikes are.
+Beryl,UK,coded,trip_time_data,explicit,"driving licences), we may collect some data about you from third-parties who provide these services (such as Stripe and Persona)."
+Beryl,UK,coded,vehicle_identifier,partial,"💳 Financial information Your card number, payment details and a unique customer identifier provided to us by our payment processor."
+Beryl,UK,coded,battery_or_diagnostic_data,not_found,
+Beryl,UK,coded,maintenance_or_repair_data,explicit,"Data you give Data we collect ✅ When you browse any page of our website or partner websites ✅ ✅ When you sign up to our service ✅ ✅ When you verify your mobile number and driving licence ✅ When you use the Beryl app ✅ When you hire a vehicle ✅ ✅ When you contact us for customer support, by phone, em"
+Beryl,UK,coded,account_payment_device_data,explicit,"For example, in order to hire one of our bicycles we will need your name and payment information."
+Beryl,UK,coded,analytics_or_profiling,explicit,"Here are the details of our third-party service providers, and what data they collect or we share with them, where they store the data and why they need it: Infrastructure Service provider Data collected or shared Purpose Place of processing FiveTran Support conversations Contact details Journey dat"
+Beryl,UK,coded,retention,explicit,We will only hold your personal data for as long as it is necessary and proportionate in line with our retention policies and procedures.
+Beryl,UK,coded,processors_or_contractors,explicit,"💳 Financial information Your card number, payment details and a unique customer identifier provided to us by our payment processor."
+Beryl,UK,coded,international_transfer,explicit,"Where data is processed outside the UK or EU, contractual arrangements are in place with these processors that ensure the adequacy of data protection is in line with that required by the UK and EU."
+Beryl,UK,coded,user_rights,explicit,🔑 You have the right to access information we hold about you You are entitled to confirmation that we process your personal data and a copy of such personal data.
+Beryl,UK,coded,incident_contact,explicit,We have put in place procedures to deal with any suspected data breach and will notify you and any applicable regulator when we are legally required to do so.
+Beryl,UK,coded,vulnerability_disclosure,not_found,
+Beryl,UK,coded,return_recycling_disposal,not_found,
+Zeus Scooters,EU,coded,location_data,partial,"Information we process with your consent Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or APP or ask us to provide you more information about our business, including career opportunities, location of our App, details of ou"
+Zeus Scooters,EU,coded,trip_time_data,explicit,We keep this information only for the duration of the direct debit arrangement.
+Zeus Scooters,EU,coded,vehicle_identifier,partial,Personal identifiers from your browsing activity Requests by your web browser to our servers for web pages and other content on our website are recorded.
+Zeus Scooters,EU,coded,battery_or_diagnostic_data,not_found,
+Zeus Scooters,EU,coded,maintenance_or_repair_data,partial,You may withdraw your consent at any time by instructing us at support@zeusscooters.com ].
+Zeus Scooters,EU,coded,account_payment_device_data,explicit,"Information relating to your method of payment Payment information is never taken by us or transferred to us either through our website, App or otherwise."
+Zeus Scooters,EU,coded,analytics_or_profiling,explicit,Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin.
+Zeus Scooters,EU,coded,retention,explicit,"Retention period for personal data Except, as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us: 27.1."
+Zeus Scooters,EU,coded,processors_or_contractors,explicit,the processor is within the same corporate group as our business or organisation and abides by the same binding corporate rules regarding data processing.
+Zeus Scooters,EU,coded,international_transfer,explicit,Data may be processed outside the European Union Our websites are hosted in Ireland and our App is hosted in Germany We may also use outsourced services in countries outside the European Union from time to time in other aspects of our business.
+Zeus Scooters,EU,coded,user_rights,partial,The law requires us to tell you about your rights and our obligations to you as regards to the processing and control of your personal data.
+Zeus Scooters,EU,coded,incident_contact,explicit,"The basis on which we process information about you The law requires us to determine under which of six defined basis we process different categories of your personal information, and to notify you of the basis for each category."
+Zeus Scooters,EU,coded,vulnerability_disclosure,not_found,
+Zeus Scooters,EU,coded,return_recycling_disposal,not_found,
+Veo,US,coded,location_data,explicit,"12.5 Veo has collected certain information from the following categories of “Personal Information,” as set forth in CA Code 1798.140( o )(1), from its users in the past 12 months: (i) identifiers, such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Pro"
+Veo,US,coded,trip_time_data,explicit,"For example, while You are renting a Vehicle, Veo may collect information about the location of the Vehicle, the routes taken by the Vehicle, and the rental status of the Vehicle."
+Veo,US,coded,vehicle_identifier,explicit,"They may, however, use persistent identifiers to anonymously track Your Internet usage across other websites and applications over which Veo has no control."
+Veo,US,coded,battery_or_diagnostic_data,explicit,"Veo and third party vendors may collect information about Your computer hardware and software, such as browser information, access times, the date and time of visits, the website pages viewed, time spent at Veo’s website, websites that You visited just before and just after Your visit to Veo’s websi"
+Veo,US,coded,maintenance_or_repair_data,explicit,"With IT services providers (including IT platform provides and website analytic service providers) in order to provide the Services to You and to analyze Your use of the Services, such that they may support Veo’s IT systems, provide hosting, processing and analyzing services with respect to informat"
+Veo,US,coded,account_payment_device_data,explicit,"You may provide Veo or its agents with information in several ways, including, for example, when You: register for an account, create a user profile, or provide payment information; manage Your account; use one of Veo’s Services; register for an event sponsored by Veo; authorize Veo to collect Your "
+Veo,US,coded,analytics_or_profiling,explicit,Veo may also use cookies to: find Your account information when You access the Services (a cookie is created when You register for an Account); determine the browser You are using so the Services work properly; assist with sending You e-mail newsletters; generate analytics regarding Your use of Serv
+Veo,US,coded,retention,explicit,"Code § 1798.105(d), which for instance, allows retention of such information for completing the transaction for which the personal information was collected, detecting security incidents, or complying with a legal obligation."
+Veo,US,coded,processors_or_contractors,explicit,"With IT services providers (including IT platform provides and website analytic service providers) in order to provide the Services to You and to analyze Your use of the Services, such that they may support Veo’s IT systems, provide hosting, processing and analyzing services with respect to informat"
+Veo,US,coded,international_transfer,partial,"Veo may also transfer or assign Your Personal Information to third parties as a result of, or in connection with, a sale, merger, consolidation, change in control, transfer of assets, bankruptcy, reorganization, or liquidation."
+Veo,US,coded,user_rights,partial,"There are a number of bases in data protection law that permit Veo to use Your Personal Information for the purposes described in this Privacy Policy, including that: You have provided Your consent to use Your Personal Information for that purpose, including, for example, where You have given Your c"
+Veo,US,coded,incident_contact,explicit,"Code § 1798.105(d), which for instance, allows retention of such information for completing the transaction for which the personal information was collected, detecting security incidents, or complying with a legal obligation."
+Veo,US,coded,vulnerability_disclosure,not_found,
+Veo,US,coded,return_recycling_disposal,not_found,
+Spin,US,coded,location_data,explicit,"Please note: precise geolocation information is considered “sensitive personal information” under certain privacy laws, and we process this information in accordance with applicable legal requirements."
+Spin,US,coded,trip_time_data,explicit,"If you choose to enable location-based services, we may collect your location based on information provided by you or your device, including, if available, GPS and the start and end points of your trip."
+Spin,US,coded,vehicle_identifier,explicit,"Usage information: When you use our Services, we and our service providers collect and analyze information about your vehicle and also your device usage activity such vehicle ID, as referring and exit pages and URLs, the number of clicks, files you download, domain names, landing pages, pages viewed"
+Spin,US,coded,battery_or_diagnostic_data,explicit,"We and our service providers may also collect and combine diagnostic and usage information collected on our Services with other information about your online activities over time, including the use of other devices, websites, or apps, if such services also use the same vendors."
+Spin,US,coded,maintenance_or_repair_data,explicit,"For example, we collect information from you when you: Register your account; Use the Services, such as renting a vehicle; Apply for or participate in a Spin program or request a discount; Communicate with us (including through functions of our Sites and Apps, on third-party social media sites, and "
+Spin,US,coded,account_payment_device_data,explicit,"For example, if you are a customer but do not provide us with your billing information for payment, you will not be able to rent a vehicle."
+Spin,US,coded,analytics_or_profiling,explicit,"Information We Collect from Others We may obtain information from other sources, such as payment service providers (who provide us with payment confirmation or balance information), identity verification providers, analytics service providers, and security service providers (who provide us with info"
+Spin,US,coded,retention,explicit,"Protection of Spin and Others & Legal Compliance : We may access, retain and disclose the information we collect and maintain about you if required or permitted to do so by law or in a good faith belief that such access, retention, or disclosure is reasonably necessary to: (i) comply with law or leg"
+Spin,US,coded,processors_or_contractors,explicit,"We and our service providers (which are third-party companies that work on our behalf) may use a variety of technologies, including cookies and similar tools, to assist in collecting this information."
+Spin,US,coded,international_transfer,partial,"Business Transfers : We may buy, merge, or partner with other companies."
+Spin,US,coded,user_rights,explicit,"Your Rights Subject to applicable law, you have the right to access, update and correct inaccuracies in your personal information in our custody or control."
+Spin,US,coded,incident_contact,partial,"HOW TO CONTACT US PRIVACY POLICY In this Privacy Policy, we describe how Blue Jay Transit Inc., along with its subsidiaries listed in below, and its parents or other subsidiaries (“Spin,” “we,” “us,” or “our”) collects, uses, and discloses your information."
+Spin,US,coded,vulnerability_disclosure,not_found,
+Spin,US,coded,return_recycling_disposal,not_found,
+Check,EU,coded,location_data,explicit,"Amongst other things, we process the following personal data from renters: - ID number scooter and cars ; - battery charging and use of electricity ; - covered distance ; - ride duration ; - vehicle status ; and - location data of the ride."
+Check,EU,coded,trip_time_data,explicit,Download the app now and make your first trip.
+Check,EU,coded,vehicle_identifier,not_found,
+Check,EU,coded,battery_or_diagnostic_data,explicit,"Amongst other things, we process the following personal data from renters: - ID number scooter and cars ; - battery charging and use of electricity ; - covered distance ; - ride duration ; - vehicle status ; and - location data of the ride."
+Check,EU,coded,maintenance_or_repair_data,explicit,"Personal data of (prospective) renters are processed for the following purposes: - formation and execution of the rental agreement; - to offer, deliver and adapt the agreed services, products and/or information to your needs and wishes; - the promotion and analysis of our services and those of our a"
+Check,EU,coded,account_payment_device_data,explicit,"Consider in this regard contact details, payment details and website use."
+Check,EU,coded,analytics_or_profiling,partial,"We also use cookies (after seeking your consent, if required)."
+Check,EU,coded,retention,explicit,"We will assess whether it is possible to implement such a request: in some cases we will have to retain your personal data, e.g."
+Check,EU,coded,processors_or_contractors,explicit,"If we have personal data processed by a third party, we enter into a written processing agreement with these so-called processors that complies with the GDPR."
+Check,EU,coded,international_transfer,partial,"For some transfers, we have to ask your permission."
+Check,EU,coded,user_rights,partial,Your rights with regard to personal data You are entitled to access any personal data processed by us or to have it corrected or deleted or restrict its processing.
+Check,EU,coded,incident_contact,explicit,"Sometimes we are required by law or a court forces us to share personal information to, for example, the Tax Authorities, the police or the supervisory authority."
+Check,EU,coded,vulnerability_disclosure,not_found,
+Check,EU,coded,return_recycling_disposal,not_found,
+nextbike,DE,coded,location_data,explicit,"Insofar as we use the location data (GPS data) for billing purposes, the legal basis for the processing is Art."
+nextbike,DE,coded,trip_time_data,explicit,"We also statistically evaluate newsletter opening rates, the number of clicks on included links and the reading duration, measure the reach of our newsletters and adapt the offers and information sent to your personal interests."
+nextbike,DE,coded,vehicle_identifier,partial,"This data includes a so-called unique account identifier, which is a name or number that is used to identify a customer."
+nextbike,DE,coded,battery_or_diagnostic_data,not_found,
+nextbike,DE,coded,maintenance_or_repair_data,explicit,"In order to carry out the creditworthiness query and for the purposes of fraud prevention and the avoidance of default risks, the bank connection data (IBAN/BIC) provided by you will be forwarded to ""Abilita"" and subjected to a check there."
+nextbike,DE,coded,account_payment_device_data,explicit,"Registration/login area of the websites and apps If you want to use the password-protected area on our websites and in our apps, you generally have to register using the following information: ● ● ● ● ● ● ● ● ● Address E-mail address First/last name Phone Number Location / City / Postcode RFID chip "
+nextbike,DE,coded,analytics_or_profiling,explicit,"Google Analytics 4.0 In order to be able to optimally adapt our websites and apps to user interests, we use ""Google Analytics 4.0"", a web analysis service from ""Google"" (Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland and Google, LLC 1600 Amphitheatre Parkway Mountain View, CA 94"
+nextbike,DE,coded,retention,explicit,"The data will be deleted as soon as they are no longer required to achieve the purpose of their processing, or processing will be restricted if legal retention periods exist."
+nextbike,DE,coded,processors_or_contractors,explicit,Braze acts as our processor and is contractually limited in its authority to use your personal data for purposes other than providing services to us in accordance with the applicable data processing agreement.
+nextbike,DE,coded,international_transfer,explicit,"So-called ""standard contractual clauses"" have been concluded with Google to ensure compliance with an appropriate level of data protection."
+nextbike,DE,coded,user_rights,explicit,"Right to rectification: Should the information in question not (no longer) be correct, you can demand rectification according to Art."
+nextbike,DE,coded,incident_contact,explicit,"If you are of the opinion that the processing of your personal data breaches data protection law, you also have the right to lodge a complaint with a data supervisory authority of your choice according to Art."
+nextbike,DE,coded,vulnerability_disclosure,not_found,
+nextbike,DE,coded,return_recycling_disposal,not_found,
+nextbike Czech Republic,CZ,coded,location_data,partial,"location of the rental bike at the beginning and end of the rental period, parking processes and location of the bike, shall be collected insofar as it is necessary for the purpose of carrying out the contractual relationship with the (This also includes the use of the data to detect and eliminate e"
+nextbike Czech Republic,CZ,coded,trip_time_data,explicit,Rental transactions are collected and stored with start and destination times.
+nextbike Czech Republic,CZ,coded,vehicle_identifier,not_found,
+nextbike Czech Republic,CZ,coded,battery_or_diagnostic_data,not_found,
+nextbike Czech Republic,CZ,coded,maintenance_or_repair_data,explicit,"location of the rental bike at the beginning and end of the rental period, parking processes and location of the bike, shall be collected insofar as it is necessary for the purpose of carrying out the contractual relationship with the (This also includes the use of the data to detect and eliminate e"
+nextbike Czech Republic,CZ,coded,account_payment_device_data,explicit,User data is further passed onto our payment service providers in order to bill the rentals 4.
+nextbike Czech Republic,CZ,coded,analytics_or_profiling,explicit,"6 paragraph 1 letter a), letter f) The advertising purposes therein represent a legitimate interest for us."
+nextbike Czech Republic,CZ,coded,retention,explicit,Personal data will be deleted if it is no longer necessary or if there is no legal obligation to store it 2.
+nextbike Czech Republic,CZ,coded,processors_or_contractors,explicit,User data is further passed onto our payment service providers in order to bill the rentals 4.
+nextbike Czech Republic,CZ,coded,international_transfer,explicit,"The e-mail addresses of our newsletter recipients, as well as their further data described in the context of these notes, are stored on the servers of MailChimp in the USA."
+nextbike Czech Republic,CZ,coded,user_rights,not_found,
+nextbike Czech Republic,CZ,coded,incident_contact,partial,### Contact opportunity On our website we offer you the possibility to contact us by e-mail or service hot line.
+nextbike Czech Republic,CZ,coded,vulnerability_disclosure,not_found,
+nextbike Czech Republic,CZ,coded,return_recycling_disposal,not_found,
+Cooltra,EU,coded,location_data,explicit,"(1) Express consent of the data subject (2) Own legitimate interest To prepare a motor vehicle GPS tracking system and the measures to protect the ownership of the Cooltra fleet, with the aim of protecting Cooltra against any acts performed by unlawful or fraudulent third parties."
+Cooltra,EU,coded,trip_time_data,explicit,Cooltra shall retain the user’s data for use exclusively for the duration of the contractual relationship.
+Cooltra,EU,coded,vehicle_identifier,not_found,
+Cooltra,EU,coded,battery_or_diagnostic_data,not_found,
+Cooltra,EU,coded,maintenance_or_repair_data,explicit,"(1) Express consent of the data subject (2) Own legitimate interest Resolve claims, incidents or queries through the channels enabled for said purpose: Contact Form, Online Chat, email and customer service telephone line."
+Cooltra,EU,coded,account_payment_device_data,explicit,"Fulfilment of a legal obligation To process the payment for the Service via the Service payment platform 1) Performance of the contract (2) Express consent of the data subject In order to prepare measures aimed at mitigating risk exposure in trade transactions, which involve identifying customers/us"
+Cooltra,EU,coded,analytics_or_profiling,explicit,"In order to provide you with personalised information or services on our app and to commit to data improvement, we consider that we have a legitimate interest in profiling the information we have about you (such as your browsing, preferences or booking history) and the personal data you have provide"
+Cooltra,EU,coded,retention,explicit,"In these cases, Cooltra undertakes not to use said information other than for the retention obligations imposed by Data Protection Laws."
+Cooltra,EU,coded,processors_or_contractors,explicit,Third party companies subcontracted by us or service providers we use to provide our services.
+Cooltra,EU,coded,international_transfer,explicit,International transfer of personal information.
+Cooltra,EU,coded,user_rights,explicit,Right to rectification or deletion: allows errors to be rectified and inaccurate or incomplete data to be modified or completed.
+Cooltra,EU,coded,incident_contact,explicit,"Lawful basis for processing your personal information Managing rental requests, providing the Customer with the tools required to enjoy the Service (1) Performance of the contract (2) Express consent of the data subject Registering as a website user or new customer (1) Express consent of the data su"
+Cooltra,EU,coded,vulnerability_disclosure,not_found,
+Cooltra,EU,coded,return_recycling_disposal,not_found,
+Voi,UK,unavailable,location_data,unavailable,
+Voi,UK,unavailable,trip_time_data,unavailable,
+Voi,UK,unavailable,vehicle_identifier,unavailable,
+Voi,UK,unavailable,battery_or_diagnostic_data,unavailable,
+Voi,UK,unavailable,maintenance_or_repair_data,unavailable,
+Voi,UK,unavailable,account_payment_device_data,unavailable,
+Voi,UK,unavailable,analytics_or_profiling,unavailable,
+Voi,UK,unavailable,retention,unavailable,
+Voi,UK,unavailable,processors_or_contractors,unavailable,
+Voi,UK,unavailable,international_transfer,unavailable,
+Voi,UK,unavailable,user_rights,unavailable,
+Voi,UK,unavailable,incident_contact,unavailable,
+Voi,UK,unavailable,vulnerability_disclosure,unavailable,
+Voi,UK,unavailable,return_recycling_disposal,unavailable,
+Mobility Parc,EU,unavailable,location_data,unavailable,
+Mobility Parc,EU,unavailable,trip_time_data,unavailable,
+Mobility Parc,EU,unavailable,vehicle_identifier,unavailable,
+Mobility Parc,EU,unavailable,battery_or_diagnostic_data,unavailable,
+Mobility Parc,EU,unavailable,maintenance_or_repair_data,unavailable,
+Mobility Parc,EU,unavailable,account_payment_device_data,unavailable,
+Mobility Parc,EU,unavailable,analytics_or_profiling,unavailable,
+Mobility Parc,EU,unavailable,retention,unavailable,
+Mobility Parc,EU,unavailable,processors_or_contractors,unavailable,
+Mobility Parc,EU,unavailable,international_transfer,unavailable,
+Mobility Parc,EU,unavailable,user_rights,unavailable,
+Mobility Parc,EU,unavailable,incident_contact,unavailable,
+Mobility Parc,EU,unavailable,vulnerability_disclosure,unavailable,
+Mobility Parc,EU,unavailable,return_recycling_disposal,unavailable,
