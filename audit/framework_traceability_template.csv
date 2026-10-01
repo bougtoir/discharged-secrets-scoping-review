@@ -1,0 +1,7 @@
+lifecycle_stage,exposure_path,observed_or_reported_data,source_record_or_document,evidence_distance,proposed_control,verification_artifact,effectiveness_evidence,publicly_assessable,status,limitation
+procurement,,,,,,,,,,
+deployment,,,,,,,,,,
+operation,,,,,,,,,,
+maintenance_and_service,,,,,,,,,,
+recall_and_return,,,,,,,,,,
+second_life_and_disposal,,,,,,,,,,

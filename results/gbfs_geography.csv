@@ -1,0 +1,246 @@
+dimension,level,metric,label,count,denominator,percent,wilson_95_low_percent,wilson_95_high_percent
+country,DE Germany,feeds,Eligible motorized feeds,176,813,21.6,,
+country,DE Germany,has_vehicle_id,vehicle identifier,176,176,100.0,97.9,100.0
+country,DE Germany,has_location_fields,latitude/longitude,171,176,97.2,93.5,98.8
+country,DE Germany,has_last_reported,last-reported timestamp,137,176,77.8,71.1,83.3
+country,DE Germany,has_battery_percent,battery/fuel percentage,122,176,69.3,62.2,75.7
+country,DE Germany,has_range,current range,175,176,99.4,96.9,99.9
+country,DE Germany,has_deep_link,vehicle-specific rental link,173,176,98.3,95.1,99.4
+country,US United States,feeds,Eligible motorized feeds,107,813,13.2,,
+country,US United States,has_vehicle_id,vehicle identifier,107,107,100.0,96.5,100.0
+country,US United States,has_location_fields,latitude/longitude,107,107,100.0,96.5,100.0
+country,US United States,has_last_reported,last-reported timestamp,66,107,61.7,52.2,70.3
+country,US United States,has_battery_percent,battery/fuel percentage,51,107,47.7,38.4,57.0
+country,US United States,has_range,current range,107,107,100.0,96.5,100.0
+country,US United States,has_deep_link,vehicle-specific rental link,40,107,37.4,28.8,46.8
+country,FR France,feeds,Eligible motorized feeds,102,813,12.5,,
+country,FR France,has_vehicle_id,vehicle identifier,102,102,100.0,96.4,100.0
+country,FR France,has_location_fields,latitude/longitude,102,102,100.0,96.4,100.0
+country,FR France,has_last_reported,last-reported timestamp,100,102,98.0,93.1,99.5
+country,FR France,has_battery_percent,battery/fuel percentage,67,102,65.7,56.1,74.2
+country,FR France,has_range,current range,102,102,100.0,96.4,100.0
+country,FR France,has_deep_link,vehicle-specific rental link,90,102,88.2,80.6,93.1
+country,PL Poland,feeds,Eligible motorized feeds,71,813,8.7,,
+country,PL Poland,has_vehicle_id,vehicle identifier,71,71,100.0,94.9,100.0
+country,PL Poland,has_location_fields,latitude/longitude,71,71,100.0,94.9,100.0
+country,PL Poland,has_last_reported,last-reported timestamp,68,71,95.8,88.3,98.6
+country,PL Poland,has_battery_percent,battery/fuel percentage,70,71,98.6,92.4,99.8
+country,PL Poland,has_range,current range,71,71,100.0,94.9,100.0
+country,PL Poland,has_deep_link,vehicle-specific rental link,71,71,100.0,94.9,100.0
+country,FI Finland,feeds,Eligible motorized feeds,41,813,5.0,,
+country,FI Finland,has_vehicle_id,vehicle identifier,41,41,100.0,91.4,100.0
+country,FI Finland,has_location_fields,latitude/longitude,41,41,100.0,91.4,100.0
+country,FI Finland,has_last_reported,last-reported timestamp,41,41,100.0,91.4,100.0
+country,FI Finland,has_battery_percent,battery/fuel percentage,39,41,95.1,83.9,98.7
+country,FI Finland,has_range,current range,40,41,97.6,87.4,99.6
+country,FI Finland,has_deep_link,vehicle-specific rental link,41,41,100.0,91.4,100.0
+country,GB United Kingdom,feeds,Eligible motorized feeds,30,813,3.7,,
+country,GB United Kingdom,has_vehicle_id,vehicle identifier,30,30,100.0,88.6,100.0
+country,GB United Kingdom,has_location_fields,latitude/longitude,30,30,100.0,88.6,100.0
+country,GB United Kingdom,has_last_reported,last-reported timestamp,12,30,40.0,24.6,57.7
+country,GB United Kingdom,has_battery_percent,battery/fuel percentage,10,30,33.3,19.2,51.2
+country,GB United Kingdom,has_range,current range,30,30,100.0,88.6,100.0
+country,GB United Kingdom,has_deep_link,vehicle-specific rental link,14,30,46.7,30.2,63.9
+country,NL Netherlands,feeds,Eligible motorized feeds,29,813,3.6,,
+country,NL Netherlands,has_vehicle_id,vehicle identifier,29,29,100.0,88.3,100.0
+country,NL Netherlands,has_location_fields,latitude/longitude,29,29,100.0,88.3,100.0
+country,NL Netherlands,has_last_reported,last-reported timestamp,11,29,37.9,22.7,56.0
+country,NL Netherlands,has_battery_percent,battery/fuel percentage,4,29,13.8,5.5,30.6
+country,NL Netherlands,has_range,current range,29,29,100.0,88.3,100.0
+country,NL Netherlands,has_deep_link,vehicle-specific rental link,4,29,13.8,5.5,30.6
+country,IT Italy,feeds,Eligible motorized feeds,28,813,3.4,,
+country,IT Italy,has_vehicle_id,vehicle identifier,28,28,100.0,87.9,100.0
+country,IT Italy,has_location_fields,latitude/longitude,28,28,100.0,87.9,100.0
+country,IT Italy,has_last_reported,last-reported timestamp,26,28,92.9,77.4,98.0
+country,IT Italy,has_battery_percent,battery/fuel percentage,24,28,85.7,68.5,94.3
+country,IT Italy,has_range,current range,28,28,100.0,87.9,100.0
+country,IT Italy,has_deep_link,vehicle-specific rental link,25,28,89.3,72.8,96.3
+country,CH Switzerland,feeds,Eligible motorized feeds,26,813,3.2,,
+country,CH Switzerland,has_vehicle_id,vehicle identifier,26,26,100.0,87.1,100.0
+country,CH Switzerland,has_location_fields,latitude/longitude,26,26,100.0,87.1,100.0
+country,CH Switzerland,has_last_reported,last-reported timestamp,21,26,80.8,62.1,91.5
+country,CH Switzerland,has_battery_percent,battery/fuel percentage,15,26,57.7,38.9,74.5
+country,CH Switzerland,has_range,current range,26,26,100.0,87.1,100.0
+country,CH Switzerland,has_deep_link,vehicle-specific rental link,18,26,69.2,50.0,83.5
+country,ES Spain,feeds,Eligible motorized feeds,26,813,3.2,,
+country,ES Spain,has_vehicle_id,vehicle identifier,26,26,100.0,87.1,100.0
+country,ES Spain,has_location_fields,latitude/longitude,26,26,100.0,87.1,100.0
+country,ES Spain,has_last_reported,last-reported timestamp,14,26,53.8,35.5,71.2
+country,ES Spain,has_battery_percent,battery/fuel percentage,24,26,92.3,75.9,97.9
+country,ES Spain,has_range,current range,26,26,100.0,87.1,100.0
+country,ES Spain,has_deep_link,vehicle-specific rental link,18,26,69.2,50.0,83.5
+country,AT Austria,feeds,Eligible motorized feeds,20,813,2.5,,
+country,AT Austria,has_vehicle_id,vehicle identifier,20,20,100.0,83.9,100.0
+country,AT Austria,has_location_fields,latitude/longitude,20,20,100.0,83.9,100.0
+country,AT Austria,has_last_reported,last-reported timestamp,16,20,80.0,58.4,91.9
+country,AT Austria,has_battery_percent,battery/fuel percentage,18,20,90.0,69.9,97.2
+country,AT Austria,has_range,current range,18,20,90.0,69.9,97.2
+country,AT Austria,has_deep_link,vehicle-specific rental link,20,20,100.0,83.9,100.0
+country,SE Sweden,feeds,Eligible motorized feeds,17,813,2.1,,
+country,SE Sweden,has_vehicle_id,vehicle identifier,17,17,100.0,81.6,100.0
+country,SE Sweden,has_location_fields,latitude/longitude,17,17,100.0,81.6,100.0
+country,SE Sweden,has_last_reported,last-reported timestamp,16,17,94.1,73.0,99.0
+country,SE Sweden,has_battery_percent,battery/fuel percentage,13,17,76.5,52.7,90.4
+country,SE Sweden,has_range,current range,17,17,100.0,81.6,100.0
+country,SE Sweden,has_deep_link,vehicle-specific rental link,17,17,100.0,81.6,100.0
+country,SK Slovakia,feeds,Eligible motorized feeds,17,813,2.1,,
+country,SK Slovakia,has_vehicle_id,vehicle identifier,17,17,100.0,81.6,100.0
+country,SK Slovakia,has_location_fields,latitude/longitude,17,17,100.0,81.6,100.0
+country,SK Slovakia,has_last_reported,last-reported timestamp,16,17,94.1,73.0,99.0
+country,SK Slovakia,has_battery_percent,battery/fuel percentage,17,17,100.0,81.6,100.0
+country,SK Slovakia,has_range,current range,17,17,100.0,81.6,100.0
+country,SK Slovakia,has_deep_link,vehicle-specific rental link,17,17,100.0,81.6,100.0
+country,CA Canada,feeds,Eligible motorized feeds,16,813,2.0,,
+country,CA Canada,has_vehicle_id,vehicle identifier,16,16,100.0,80.6,100.0
+country,CA Canada,has_location_fields,latitude/longitude,16,16,100.0,80.6,100.0
+country,CA Canada,has_last_reported,last-reported timestamp,14,16,87.5,64.0,96.5
+country,CA Canada,has_battery_percent,battery/fuel percentage,7,16,43.8,23.1,66.8
+country,CA Canada,has_range,current range,14,16,87.5,64.0,96.5
+country,CA Canada,has_deep_link,vehicle-specific rental link,3,16,18.8,6.6,43.0
+country,BE Belgium,feeds,Eligible motorized feeds,15,813,1.8,,
+country,BE Belgium,has_vehicle_id,vehicle identifier,15,15,100.0,79.6,100.0
+country,BE Belgium,has_location_fields,latitude/longitude,15,15,100.0,79.6,100.0
+country,BE Belgium,has_last_reported,last-reported timestamp,13,15,86.7,62.1,96.3
+country,BE Belgium,has_battery_percent,battery/fuel percentage,9,15,60.0,35.7,80.2
+country,BE Belgium,has_range,current range,14,15,93.3,70.2,98.8
+country,BE Belgium,has_deep_link,vehicle-specific rental link,11,15,73.3,48.0,89.1
+country,CZ Czech Republic,feeds,Eligible motorized feeds,14,813,1.7,,
+country,CZ Czech Republic,has_vehicle_id,vehicle identifier,14,14,100.0,78.5,100.0
+country,CZ Czech Republic,has_location_fields,latitude/longitude,14,14,100.0,78.5,100.0
+country,CZ Czech Republic,has_last_reported,last-reported timestamp,0,14,0.0,0.0,21.5
+country,CZ Czech Republic,has_battery_percent,battery/fuel percentage,12,14,85.7,60.1,96.0
+country,CZ Czech Republic,has_range,current range,13,14,92.9,68.5,98.7
+country,CZ Czech Republic,has_deep_link,vehicle-specific rental link,14,14,100.0,78.5,100.0
+country,NZ New Zealand,feeds,Eligible motorized feeds,11,813,1.4,,
+country,NZ New Zealand,has_vehicle_id,vehicle identifier,11,11,100.0,74.1,100.0
+country,NZ New Zealand,has_location_fields,latitude/longitude,11,11,100.0,74.1,100.0
+country,NZ New Zealand,has_last_reported,last-reported timestamp,11,11,100.0,74.1,100.0
+country,NZ New Zealand,has_battery_percent,battery/fuel percentage,3,11,27.3,9.7,56.6
+country,NZ New Zealand,has_range,current range,11,11,100.0,74.1,100.0
+country,NZ New Zealand,has_deep_link,vehicle-specific rental link,11,11,100.0,74.1,100.0
+country,NO Norway,feeds,Eligible motorized feeds,10,813,1.2,,
+country,NO Norway,has_vehicle_id,vehicle identifier,10,10,100.0,72.2,100.0
+country,NO Norway,has_location_fields,latitude/longitude,10,10,100.0,72.2,100.0
+country,NO Norway,has_last_reported,last-reported timestamp,10,10,100.0,72.2,100.0
+country,NO Norway,has_battery_percent,battery/fuel percentage,9,10,90.0,59.6,98.2
+country,NO Norway,has_range,current range,10,10,100.0,72.2,100.0
+country,NO Norway,has_deep_link,vehicle-specific rental link,10,10,100.0,72.2,100.0
+country,PT Portugal,feeds,Eligible motorized feeds,8,813,1.0,,
+country,PT Portugal,has_vehicle_id,vehicle identifier,8,8,100.0,67.6,100.0
+country,PT Portugal,has_location_fields,latitude/longitude,8,8,100.0,67.6,100.0
+country,PT Portugal,has_last_reported,last-reported timestamp,6,8,75.0,40.9,92.9
+country,PT Portugal,has_battery_percent,battery/fuel percentage,6,8,75.0,40.9,92.9
+country,PT Portugal,has_range,current range,6,8,75.0,40.9,92.9
+country,PT Portugal,has_deep_link,vehicle-specific rental link,2,8,25.0,7.1,59.1
+country,HU Hungary,feeds,Eligible motorized feeds,7,813,0.9,,
+country,HU Hungary,has_vehicle_id,vehicle identifier,7,7,100.0,64.6,100.0
+country,HU Hungary,has_location_fields,latitude/longitude,7,7,100.0,64.6,100.0
+country,HU Hungary,has_last_reported,last-reported timestamp,7,7,100.0,64.6,100.0
+country,HU Hungary,has_battery_percent,battery/fuel percentage,7,7,100.0,64.6,100.0
+country,HU Hungary,has_range,current range,7,7,100.0,64.6,100.0
+country,HU Hungary,has_deep_link,vehicle-specific rental link,7,7,100.0,64.6,100.0
+country,HR Croatia,feeds,Eligible motorized feeds,6,813,0.7,,
+country,HR Croatia,has_vehicle_id,vehicle identifier,6,6,100.0,61.0,100.0
+country,HR Croatia,has_location_fields,latitude/longitude,6,6,100.0,61.0,100.0
+country,HR Croatia,has_last_reported,last-reported timestamp,0,6,0.0,0.0,39.0
+country,HR Croatia,has_battery_percent,battery/fuel percentage,5,6,83.3,43.6,97.0
+country,HR Croatia,has_range,current range,6,6,100.0,61.0,100.0
+country,HR Croatia,has_deep_link,vehicle-specific rental link,6,6,100.0,61.0,100.0
+country,AE United Arab Emirates,feeds,Eligible motorized feeds,5,813,0.6,,
+country,AE United Arab Emirates,has_vehicle_id,vehicle identifier,5,5,100.0,56.6,100.0
+country,AE United Arab Emirates,has_location_fields,latitude/longitude,5,5,100.0,56.6,100.0
+country,AE United Arab Emirates,has_last_reported,last-reported timestamp,5,5,100.0,56.6,100.0
+country,AE United Arab Emirates,has_battery_percent,battery/fuel percentage,5,5,100.0,56.6,100.0
+country,AE United Arab Emirates,has_range,current range,5,5,100.0,56.6,100.0
+country,AE United Arab Emirates,has_deep_link,vehicle-specific rental link,5,5,100.0,56.6,100.0
+country,DK Denmark,feeds,Eligible motorized feeds,5,813,0.6,,
+country,DK Denmark,has_vehicle_id,vehicle identifier,5,5,100.0,56.6,100.0
+country,DK Denmark,has_location_fields,latitude/longitude,5,5,100.0,56.6,100.0
+country,DK Denmark,has_last_reported,last-reported timestamp,5,5,100.0,56.6,100.0
+country,DK Denmark,has_battery_percent,battery/fuel percentage,4,5,80.0,37.6,96.4
+country,DK Denmark,has_range,current range,5,5,100.0,56.6,100.0
+country,DK Denmark,has_deep_link,vehicle-specific rental link,5,5,100.0,56.6,100.0
+country,IL Israel,feeds,Eligible motorized feeds,5,813,0.6,,
+country,IL Israel,has_vehicle_id,vehicle identifier,5,5,100.0,56.6,100.0
+country,IL Israel,has_location_fields,latitude/longitude,5,5,100.0,56.6,100.0
+country,IL Israel,has_last_reported,last-reported timestamp,5,5,100.0,56.6,100.0
+country,IL Israel,has_battery_percent,battery/fuel percentage,4,5,80.0,37.6,96.4
+country,IL Israel,has_range,current range,5,5,100.0,56.6,100.0
+country,IL Israel,has_deep_link,vehicle-specific rental link,2,5,40.0,11.8,76.9
+country,GR Greece,feeds,Eligible motorized feeds,4,813,0.5,,
+country,GR Greece,has_vehicle_id,vehicle identifier,4,4,100.0,51.0,100.0
+country,GR Greece,has_location_fields,latitude/longitude,4,4,100.0,51.0,100.0
+country,GR Greece,has_last_reported,last-reported timestamp,2,4,50.0,15.0,85.0
+country,GR Greece,has_battery_percent,battery/fuel percentage,4,4,100.0,51.0,100.0
+country,GR Greece,has_range,current range,4,4,100.0,51.0,100.0
+country,GR Greece,has_deep_link,vehicle-specific rental link,4,4,100.0,51.0,100.0
+country,SI Slovenia,feeds,Eligible motorized feeds,4,813,0.5,,
+country,SI Slovenia,has_vehicle_id,vehicle identifier,4,4,100.0,51.0,100.0
+country,SI Slovenia,has_location_fields,latitude/longitude,4,4,100.0,51.0,100.0
+country,SI Slovenia,has_last_reported,last-reported timestamp,0,4,0.0,0.0,49.0
+country,SI Slovenia,has_battery_percent,battery/fuel percentage,4,4,100.0,51.0,100.0
+country,SI Slovenia,has_range,current range,4,4,100.0,51.0,100.0
+country,SI Slovenia,has_deep_link,vehicle-specific rental link,4,4,100.0,51.0,100.0
+country,SA Saudi Arabia,feeds,Eligible motorized feeds,3,813,0.4,,
+country,SA Saudi Arabia,has_vehicle_id,vehicle identifier,3,3,100.0,43.9,100.0
+country,SA Saudi Arabia,has_location_fields,latitude/longitude,3,3,100.0,43.9,100.0
+country,SA Saudi Arabia,has_last_reported,last-reported timestamp,3,3,100.0,43.9,100.0
+country,SA Saudi Arabia,has_battery_percent,battery/fuel percentage,3,3,100.0,43.9,100.0
+country,SA Saudi Arabia,has_range,current range,3,3,100.0,43.9,100.0
+country,SA Saudi Arabia,has_deep_link,vehicle-specific rental link,3,3,100.0,43.9,100.0
+country,IE Ireland,feeds,Eligible motorized feeds,2,813,0.2,,
+country,IE Ireland,has_vehicle_id,vehicle identifier,2,2,100.0,34.2,100.0
+country,IE Ireland,has_location_fields,latitude/longitude,2,2,100.0,34.2,100.0
+country,IE Ireland,has_last_reported,last-reported timestamp,1,2,50.0,9.5,90.5
+country,IE Ireland,has_battery_percent,battery/fuel percentage,0,2,0.0,0.0,65.8
+country,IE Ireland,has_range,current range,2,2,100.0,34.2,100.0
+country,IE Ireland,has_deep_link,vehicle-specific rental link,1,2,50.0,9.5,90.5
+country,RO Romania,feeds,Eligible motorized feeds,2,813,0.2,,
+country,RO Romania,has_vehicle_id,vehicle identifier,2,2,100.0,34.2,100.0
+country,RO Romania,has_location_fields,latitude/longitude,2,2,100.0,34.2,100.0
+country,RO Romania,has_last_reported,last-reported timestamp,0,2,0.0,0.0,65.8
+country,RO Romania,has_battery_percent,battery/fuel percentage,1,2,50.0,9.5,90.5
+country,RO Romania,has_range,current range,1,2,50.0,9.5,90.5
+country,RO Romania,has_deep_link,vehicle-specific rental link,2,2,100.0,34.2,100.0
+country,BA Bosnia and Herzegovina,feeds,Eligible motorized feeds,1,813,0.1,,
+country,BA Bosnia and Herzegovina,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,BA Bosnia and Herzegovina,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,BA Bosnia and Herzegovina,has_last_reported,last-reported timestamp,0,1,0.0,0.0,79.3
+country,BA Bosnia and Herzegovina,has_battery_percent,battery/fuel percentage,1,1,100.0,20.7,100.0
+country,BA Bosnia and Herzegovina,has_range,current range,1,1,100.0,20.7,100.0
+country,BA Bosnia and Herzegovina,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0
+country,CY Cyprus,feeds,Eligible motorized feeds,1,813,0.1,,
+country,CY Cyprus,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,CY Cyprus,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,CY Cyprus,has_last_reported,last-reported timestamp,0,1,0.0,0.0,79.3
+country,CY Cyprus,has_battery_percent,battery/fuel percentage,1,1,100.0,20.7,100.0
+country,CY Cyprus,has_range,current range,1,1,100.0,20.7,100.0
+country,CY Cyprus,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0
+country,LI Liechtenstein,feeds,Eligible motorized feeds,1,813,0.1,,
+country,LI Liechtenstein,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,LI Liechtenstein,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,LI Liechtenstein,has_last_reported,last-reported timestamp,1,1,100.0,20.7,100.0
+country,LI Liechtenstein,has_battery_percent,battery/fuel percentage,0,1,0.0,0.0,79.3
+country,LI Liechtenstein,has_range,current range,1,1,100.0,20.7,100.0
+country,LI Liechtenstein,has_deep_link,vehicle-specific rental link,0,1,0.0,0.0,79.3
+country,MY Malaysia,feeds,Eligible motorized feeds,1,813,0.1,,
+country,MY Malaysia,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,MY Malaysia,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,MY Malaysia,has_last_reported,last-reported timestamp,1,1,100.0,20.7,100.0
+country,MY Malaysia,has_battery_percent,battery/fuel percentage,0,1,0.0,0.0,79.3
+country,MY Malaysia,has_range,current range,1,1,100.0,20.7,100.0
+country,MY Malaysia,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0
+country,QA Qatar,feeds,Eligible motorized feeds,1,813,0.1,,
+country,QA Qatar,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,QA Qatar,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,QA Qatar,has_last_reported,last-reported timestamp,1,1,100.0,20.7,100.0
+country,QA Qatar,has_battery_percent,battery/fuel percentage,1,1,100.0,20.7,100.0
+country,QA Qatar,has_range,current range,1,1,100.0,20.7,100.0
+country,QA Qatar,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0
+country,UA Ukraine,feeds,Eligible motorized feeds,1,813,0.1,,
+country,UA Ukraine,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+country,UA Ukraine,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+country,UA Ukraine,has_last_reported,last-reported timestamp,0,1,0.0,0.0,79.3
+country,UA Ukraine,has_battery_percent,battery/fuel percentage,0,1,0.0,0.0,79.3
+country,UA Ukraine,has_range,current range,1,1,100.0,20.7,100.0
+country,UA Ukraine,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0

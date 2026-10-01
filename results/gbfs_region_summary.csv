@@ -1,0 +1,36 @@
+dimension,level,metric,label,count,denominator,percent,wilson_95_low_percent,wilson_95_high_percent
+region,Europe,feeds,Eligible motorized feeds,664,813,81.7,,
+region,Europe,has_vehicle_id,vehicle identifier,664,664,100.0,99.4,100.0
+region,Europe,has_location_fields,latitude/longitude,659,664,99.2,98.2,99.7
+region,Europe,has_last_reported,last-reported timestamp,523,664,78.8,75.5,81.7
+region,Europe,has_battery_percent,battery/fuel percentage,486,664,73.2,69.7,76.4
+region,Europe,has_range,current range,655,664,98.6,97.4,99.3
+region,Europe,has_deep_link,vehicle-specific rental link,577,664,86.9,84.1,89.3
+region,Northern America,feeds,Eligible motorized feeds,123,813,15.1,,
+region,Northern America,has_vehicle_id,vehicle identifier,123,123,100.0,97.0,100.0
+region,Northern America,has_location_fields,latitude/longitude,123,123,100.0,97.0,100.0
+region,Northern America,has_last_reported,last-reported timestamp,80,123,65.0,56.3,72.9
+region,Northern America,has_battery_percent,battery/fuel percentage,58,123,47.2,38.6,55.9
+region,Northern America,has_range,current range,121,123,98.4,94.3,99.6
+region,Northern America,has_deep_link,vehicle-specific rental link,43,123,35.0,27.1,43.7
+region,Western Asia,feeds,Eligible motorized feeds,14,813,1.7,,
+region,Western Asia,has_vehicle_id,vehicle identifier,14,14,100.0,78.5,100.0
+region,Western Asia,has_location_fields,latitude/longitude,14,14,100.0,78.5,100.0
+region,Western Asia,has_last_reported,last-reported timestamp,14,14,100.0,78.5,100.0
+region,Western Asia,has_battery_percent,battery/fuel percentage,13,14,92.9,68.5,98.7
+region,Western Asia,has_range,current range,14,14,100.0,78.5,100.0
+region,Western Asia,has_deep_link,vehicle-specific rental link,11,14,78.6,52.4,92.4
+region,Oceania,feeds,Eligible motorized feeds,11,813,1.4,,
+region,Oceania,has_vehicle_id,vehicle identifier,11,11,100.0,74.1,100.0
+region,Oceania,has_location_fields,latitude/longitude,11,11,100.0,74.1,100.0
+region,Oceania,has_last_reported,last-reported timestamp,11,11,100.0,74.1,100.0
+region,Oceania,has_battery_percent,battery/fuel percentage,3,11,27.3,9.7,56.6
+region,Oceania,has_range,current range,11,11,100.0,74.1,100.0
+region,Oceania,has_deep_link,vehicle-specific rental link,11,11,100.0,74.1,100.0
+region,South-Eastern Asia,feeds,Eligible motorized feeds,1,813,0.1,,
+region,South-Eastern Asia,has_vehicle_id,vehicle identifier,1,1,100.0,20.7,100.0
+region,South-Eastern Asia,has_location_fields,latitude/longitude,1,1,100.0,20.7,100.0
+region,South-Eastern Asia,has_last_reported,last-reported timestamp,1,1,100.0,20.7,100.0
+region,South-Eastern Asia,has_battery_percent,battery/fuel percentage,0,1,0.0,0.0,79.3
+region,South-Eastern Asia,has_range,current range,1,1,100.0,20.7,100.0
+region,South-Eastern Asia,has_deep_link,vehicle-specific rental link,1,1,100.0,20.7,100.0
