@@ -1,0 +1,66 @@
+[
+  {
+    "id": "Q01",
+    "query": "shared micromobility security privacy telemetry"
+  },
+  {
+    "id": "Q02",
+    "query": "e-scooter cybersecurity privacy attack forensic"
+  },
+  {
+    "id": "Q03",
+    "query": "electric scooter battery management system telemetry privacy"
+  },
+  {
+    "id": "Q04",
+    "query": "mobile e-scooter rental app privacy"
+  },
+  {
+    "id": "Q05",
+    "query": "micromobility digital forensic data extraction"
+  },
+  {
+    "id": "Q06",
+    "query": "e-scooter sharing platform architecture cybersecurity threats"
+  },
+  {
+    "id": "Q07",
+    "query": "General Bikeshare Feed Specification privacy vehicle identifier"
+  },
+  {
+    "id": "Q08",
+    "query": "bikeshare trip data privacy reidentification"
+  },
+  {
+    "id": "Q09",
+    "query": "electric vehicle battery side channel privacy driver occupancy"
+  },
+  {
+    "id": "Q10",
+    "query": "battery-powered embedded systems scooter tracking security"
+  },
+  {
+    "id": "Q11",
+    "query": "battery management system historical data forensic analysis"
+  },
+  {
+    "id": "Q12",
+    "query": "connected device maintenance data remanence return disposal privacy"
+  },
+  {
+    "id": "Q13",
+    "query": "They See Me Scooting long-term real-world shared micro-mobility privacy leakage"
+  },
+  {
+    "id": "Q14",
+    "query": "E-Trojans ransomware tracking DoS data leaks Xiaomi e-scooter ecosystem"
+  },
+  {
+    "id": "Q15",
+    "query": "Leaky Batteries side-channel attacks electric vehicles driver occupancy endpoints"
+  },
+  {
+    "id": "Q16",
+    "query": "Geo-Location Spoofing on E-Scooters Threat Analysis Prevention Framework"
+  }
+]

@@ -1,0 +1,15 @@
+dimension,level,metric,label,count,denominator,percent,wilson_95_low_percent,wilson_95_high_percent
+gbfs_version,v2.x,feeds,Eligible motorized feeds,674,813,82.9,,
+gbfs_version,v2.x,has_vehicle_id,vehicle identifier,674,674,100.0,99.4,100.0
+gbfs_version,v2.x,has_location_fields,latitude/longitude,674,674,100.0,99.4,100.0
+gbfs_version,v2.x,has_last_reported,last-reported timestamp,531,674,78.8,75.5,81.7
+gbfs_version,v2.x,has_battery_percent,battery/fuel percentage,494,674,73.3,69.8,76.5
+gbfs_version,v2.x,has_range,current range,668,674,99.1,98.1,99.6
+gbfs_version,v2.x,has_deep_link,vehicle-specific rental link,541,674,80.3,77.1,83.1
+gbfs_version,v3.x,feeds,Eligible motorized feeds,139,813,17.1,,
+gbfs_version,v3.x,has_vehicle_id,vehicle identifier,139,139,100.0,97.3,100.0
+gbfs_version,v3.x,has_location_fields,latitude/longitude,134,139,96.4,91.9,98.5
+gbfs_version,v3.x,has_last_reported,last-reported timestamp,98,139,70.5,62.5,77.5
+gbfs_version,v3.x,has_battery_percent,battery/fuel percentage,66,139,47.5,39.4,55.7
+gbfs_version,v3.x,has_range,current range,134,139,96.4,91.9,98.5
+gbfs_version,v3.x,has_deep_link,vehicle-specific rental link,102,139,73.4,65.5,80.0

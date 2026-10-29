@@ -1,0 +1,26 @@
+operator_domain,sample_rank,search_status,documents_fetched,security_txt,vulnerability_channel_found,vulnerability_channel_url,vulnerability_channel_snippet,return_disposal_mention_found,return_disposal_url,return_disposal_snippet
+ridedott.com,1,searched,9,no,no,,,yes,https://ridedott.com/environmental-policy/,"ensuring that products are durable, repairable, reusable, energy-efficient, and recyclable in line with Regulation (EU) 2024/1781. &nbsp; 3.Roles and Responsibilities"
+bird.co,2,searched,9,no,no,,,yes,https://bird.co/sustainability/,"otprint using life-cycle assessment methodology, covering manufacturing through end-of-life. We offset what we can&#39;t yet eliminate. And we collaboratively design our v"
+zeusscooters.com,3,searched,4,no,no,,,no,,
+li.me,4,searched,1,yes,yes,security.txt:li.me,"Contact: security@li.me
+Bug Bounty Policy: https://bugcrowd.com/lime
+Acknowledgments: https://bugc",no,,
+veoride.com,5,searched,2,yes,no,,,no,,
+spin.pm,6,searched,5,yes,no,,,no,,
+beryl.cc,7,searched,5,yes,yes,security.txt:beryl.cc,"Contact: mailto:security@beryl.cc
+Expires: 2026-08-01T23:00:00.000Z
+Preferred-Languages: en
+Canonical: ht",yes,https://beryl.cc/terms,"but are able to safely continue to use the vehicle and securely lock it, please return the vehicle to the next available bay to swap it for a different one and report the problem"
+donkey.bike,8,searched,8,no,no,,,yes,https://donkey.bike/terms-and-conditions,cation for vehicles displayed in the app where vehicles are to be picked up and returned. “Area of Use” means the area within which vehicles can be rented and the rental can be terminated. ‍ “Damage&quot; within the mea
+ridecheck.app,9,searched,3,no,no,,,yes,https://ridecheck.app/sustainability,ekent dat er geen afvalstromen uit de operationele hubs komen die niet worden gerecycled. 5 Alle elektriciteitscontracten die Check zelf afsluit zijn 100% hernieuwbar
+nextbike.de,10,searched,1,no,no,,,no,,
+nextbikeczech.com,11,searched,1,no,no,,,no,,
+getapony.com,12,searched,1,no,no,,,yes,https://getapony.com/,"dans l’application appartiennent à des particuliers. Ces derniers les mettent à disposition de pony, qui les louent ensuite à ses utilisateurs. Cette approche origina"
+bolt.eu,13,searched,8,yes,yes,security.txt:bolt.eu,"t.eu/en/security/
+Hiring: https://bolt.eu/en/careers/
+
+# Found a bug? We have a bug bounty program:
+Policy: https://www.bolt.eu/security/public-vulnerability/
+Contact: ma",yes,https://bolt.eu/en/company/sustainability/,reenhouse gas emission rate (When compared to our previous model) 89.52% 89.52% Recyclability rate** ** Using the calculation methodology in ISO standard 22628 Encour
+cooltra.com,14,searched,4,no,no,,,yes,https://cooltra.com/en/legal-notice/,"OS (henceforth also the provider) as a responsible of the web site, puts at the disposal of the users the present document which regulates the use of the website cool"
+mobility-parc.net,15,searched,1,no,no,,,no,,

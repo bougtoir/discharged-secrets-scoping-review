@@ -1,0 +1,36 @@
+stratum,metric,label,count,denominator,percent,wilson_95_low_percent,wilson_95_high_percent
+all_registry_entries,auto_discovery_reachable,Reachable auto-discovery endpoint,1428,1520,93.95,92.63,95.04
+reachable_registry_entries,vehicle_feed_declared,Vehicle-status feed declared,1297,1428,90.83,89.22,92.22
+declared_vehicle_feeds,vehicle_feed_successful,Vehicle-status feed successfully retrieved,1291,1297,99.54,98.99,99.79
+successful_vehicle_feeds,vehicle_feed_nonempty,Successfully retrieved feed with at least one vehicle,1155,1291,89.47,87.67,91.02
+reachable_registry_entries,motorized_declared,At least one non-human propulsion type declared,1169,1428,81.86,79.78,83.77
+all_evaluable_vehicle_feeds,has_vehicle_id,Vehicle identifier,1155,1155,100.00,99.67,100.00
+all_evaluable_vehicle_feeds,has_location_fields,Latitude and longitude,1130,1155,97.84,96.82,98.53
+all_evaluable_vehicle_feeds,has_last_reported,Last-reported timestamp,686,1155,59.39,56.54,62.19
+all_evaluable_vehicle_feeds,has_battery_percent,Battery or fuel percentage,597,1155,51.69,48.81,54.56
+all_evaluable_vehicle_feeds,has_range,Current range,1011,1155,87.53,85.50,89.31
+all_evaluable_vehicle_feeds,has_deep_link,Vehicle-specific rental URI,959,1155,83.03,80.76,85.08
+declared_micromobility_feeds,has_vehicle_id,Vehicle identifier,934,934,100.00,99.59,100.00
+declared_micromobility_feeds,has_location_fields,Latitude and longitude,927,934,99.25,98.46,99.64
+declared_micromobility_feeds,has_last_reported,Last-reported timestamp,657,934,70.34,67.33,73.18
+declared_micromobility_feeds,has_battery_percent,Battery or fuel percentage,563,934,60.28,57.10,63.37
+declared_micromobility_feeds,has_range,Current range,806,934,86.30,83.94,88.35
+declared_micromobility_feeds,has_deep_link,Vehicle-specific rental URI,761,934,81.48,78.86,83.84
+declared_motorized_micromobility_feeds,has_vehicle_id,Vehicle identifier,813,813,100.00,99.53,100.00
+declared_motorized_micromobility_feeds,has_location_fields,Latitude and longitude,808,813,99.38,98.57,99.74
+declared_motorized_micromobility_feeds,has_last_reported,Last-reported timestamp,629,813,77.37,74.37,80.11
+declared_motorized_micromobility_feeds,has_battery_percent,Battery or fuel percentage,560,813,68.88,65.62,71.97
+declared_motorized_micromobility_feeds,has_range,Current range,802,813,98.65,97.59,99.24
+declared_motorized_micromobility_feeds,has_deep_link,Vehicle-specific rental URI,643,813,79.09,76.16,81.75
+declared_motorized_micromobility_operator_domains_any,has_vehicle_id,Vehicle identifier in at least one eligible feed,147,147,100.00,97.45,100.00
+declared_motorized_micromobility_operator_domains_all,has_vehicle_id,Vehicle identifier in every eligible feed,147,147,100.00,97.45,100.00
+declared_motorized_micromobility_operator_domains_any,has_location_fields,Latitude and longitude in at least one eligible feed,142,147,96.60,92.29,98.54
+declared_motorized_micromobility_operator_domains_all,has_location_fields,Latitude and longitude in every eligible feed,142,147,96.60,92.29,98.54
+declared_motorized_micromobility_operator_domains_any,has_last_reported,Last-reported timestamp in at least one eligible feed,76,147,51.70,43.68,59.63
+declared_motorized_micromobility_operator_domains_all,has_last_reported,Last-reported timestamp in every eligible feed,76,147,51.70,43.68,59.63
+declared_motorized_micromobility_operator_domains_any,has_battery_percent,Battery or fuel percentage in at least one eligible feed,94,147,63.95,55.92,71.26
+declared_motorized_micromobility_operator_domains_all,has_battery_percent,Battery or fuel percentage in every eligible feed,89,147,60.54,52.47,68.08
+declared_motorized_micromobility_operator_domains_any,has_range,Current range in at least one eligible feed,141,147,95.92,91.38,98.12
+declared_motorized_micromobility_operator_domains_all,has_range,Current range in every eligible feed,138,147,93.88,88.77,96.75
+declared_motorized_micromobility_operator_domains_any,has_deep_link,Vehicle-specific rental URI in at least one eligible feed,136,147,92.52,87.10,95.77
+declared_motorized_micromobility_operator_domains_all,has_deep_link,Vehicle-specific rental URI in every eligible feed,135,147,91.84,86.27,95.27

@@ -1,0 +1,23 @@
+organization,document_type,title,url,reason
+MobilityData,standard,General Bikeshare Feed Specification reference,https://github.com/MobilityData/gbfs/blob/master/gbfs.md,Defines public vehicle fields and identifier-rotation requirements
+MobilityData,registry,GBFS systems registry,https://github.com/MobilityData/gbfs/blob/master/systems.csv,Defines the public-feed sampling frame
+Open Mobility Foundation,guidance,MDS Privacy Guide for Cities,https://www.openmobilityfoundation.org/introducing-the-mds-privacy-guide-for-cities/,Micromobility data-governance guidance
+European Data Protection Board,guidance,Guidelines 01/2020 on processing personal data in connected vehicles and mobility related applications,https://www.edpb.europa.eu/documents/guideline/guidelines-012020-on-processing-personal-data-in-the-context-of-connected_en,Connected-mobility privacy guidance
+European Union,regulation,Regulation EU 2023/1542 concerning batteries and waste batteries,https://eur-lex.europa.eu/eli/reg/2023/1542/oj,Formal battery and end-of-life requirements
+National Institute of Standards and Technology,guidance,SP 800-88 Rev. 1 Guidelines for Media Sanitization,https://csrc.nist.gov/pubs/sp/800/88/r1/final,Data sanitization and disposition guidance
+National Institute of Standards and Technology,guidance,SP 800-161 Rev. 1 Cybersecurity Supply Chain Risk Management Practices,https://csrc.nist.gov/pubs/sp/800/161/r1/final,Supply-chain risk guidance
+Dott,privacy policy,Privacy Policy,https://ridedott.com/privacy/,High-coverage GBFS operator
+Bird,privacy policy,Privacy Policy,https://bird.co/privacy/,High-coverage GBFS operator
+Lime,privacy policy,Privacy Notice,https://www.li.me/legal/privacy-policy,High-coverage GBFS operator
+Voi,privacy policy,Privacy Policy,https://www.voi.com/legal/privacy-policy,Motorized shared-micromobility operator
+Bolt,privacy policy,Global Privacy Notice for Passengers,https://bolt.eu/en/privacy/privacy-for-riders/,Motorized shared-micromobility operator
+Donkey Republic,privacy policy,Privacy Policy,https://www.donkey.bike/privacy-policy,High-coverage GBFS operator
+Beryl,privacy policy,Privacy Notice,https://beryl.cc/privacy,Shared bike and scooter operator
+Zeus Scooters,privacy policy,Privacy Policy,https://zeusscooters.com/privacy-policy/,Primary operator-document sample
+Veo,privacy policy,Veo Privacy Policy,https://www.veoride.com/privacy-policy/,Primary operator-document sample
+Spin,privacy policy,Privacy Policy,https://www.spin.app/policies/privacy-policy,Primary operator-document sample
+Check,privacy policy,Privacy Statement,https://ridecheck.app/en/privacystatement,Primary operator-document sample
+nextbike,privacy policy,Privacy Notice nextbike App,https://www.nextbike.de/wp-content/uploads/2024/04/2024-04-14_Privacy-Notice-APP_nextbike_eng-2.pdf,Primary operator-document sample
+nextbike Czech Republic,privacy policy,Data Privacy Policy,https://nextbikeczech.com/en/data-privacy-policy-dpp/,Primary operator-document sample
+Cooltra,privacy policy,Privacy Policy,https://cooltra.com/nl/privacy-policy/,Primary operator-document sample
+Mobility Parc,document landing page,Service website with personal-data-policy link,https://www.mobility-parc.net/m/welcome.do?communityId=100,Primary operator-document sample; direct policy URL requires extraction

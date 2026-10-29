@@ -1,0 +1,7 @@
+metric,label,mean_domain_prevalence_pct,median_domain_prevalence_pct,iqr_domain_prevalence_pct,domains_any,domains_all,n_domains
+has_vehicle_id,vehicle identifier,100.0,100.0,100.0-100.0,147,147,147
+has_location_fields,latitude/longitude,96.6,100.0,100.0-100.0,142,142,147
+has_last_reported,last-reported timestamp,51.7,100.0,0.0-100.0,76,76,147
+has_battery_percent,battery/fuel percentage,62.9,100.0,0.0-100.0,94,89,147
+has_range,current range,95.6,100.0,100.0-100.0,141,138,147
+has_deep_link,vehicle-specific rental link,91.9,100.0,100.0-100.0,136,135,147

@@ -1,0 +1,13 @@
+statistic,value
+domains_with_eligible_feeds,147
+systems_per_domain_median,1
+systems_per_domain_iqr,1-1
+systems_per_domain_range,1-329
+largest_domain_share_pct,40.5
+top5_domain_share_pct,61.6
+uniform_has_vehicle_id,27/27 multi-feed domains uniform
+uniform_has_location_fields,27/27 multi-feed domains uniform
+uniform_has_last_reported,27/27 multi-feed domains uniform
+uniform_has_battery_percent,22/27 multi-feed domains uniform
+uniform_has_range,24/27 multi-feed domains uniform
+uniform_has_deep_link,26/27 multi-feed domains uniform
